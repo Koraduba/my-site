@@ -1,0 +1,17 @@
+h2 {
+	color: red;
+}
+
+p {
+	font-family: "Comforter Brush", cursive;
+}
+
+.col {
+	background-color: gray;
+	border: 5px solid blue;
+}
+
+.box {
+	color: red;
+	border: 5px solid blue;
+}
